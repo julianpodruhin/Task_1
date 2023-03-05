@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d27913b-6b04-40ff-b50c-a347932d7286" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1_ex1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1_ex2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_ex3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1_ex3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_ex4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1_ex4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1_ex5/Programm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1_ex5/Programm.java" afterDir="false" />
+    <list default="true" id="3d27913b-6b04-40ff-b50c-a347932d7286" name="Changes" comment="Lab_1">
       <change beforePath="$PROJECT_DIR$/src/Lab1_ex6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1_ex6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677970484353</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab_1">
+      <created>1677972183100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677972183100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab_1" />
   </component>
 </project>
